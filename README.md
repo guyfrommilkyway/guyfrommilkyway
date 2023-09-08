@@ -12,7 +12,6 @@ Experienced front-end developer with a track record of over a year, adept at cra
 <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=guyfrommilkyway&background=90,1F1F1F,333333&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=E4E4E4&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=515151&hide_border=true"/>
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=guyfrommilkyway&title_color=FFFFFF&text_color=B8B8B8&bg_color=90,1F1F1F,333333&layout=donut&hide_border=true&include_all_commits=true&custom_title=GitHub" />
 <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=guyfrommilkyway&layout=compact&title_color=FFFFFF&text_color=B8B8B8&bg_color=90,1F1F1F,333333&langs_count=10&hide_border=true&custom_title=Wakatime"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyfrommilkyway&title_color=FFFFFF&text_color=B8B8B8&bg_color=90,1F1F1F,333333&layout=donut&hide_border=true" />
 
 ## Courses & Certifications
 - [Front End Development Libraries](https://www.freecodecamp.org/certification/almerflorestampus/front-end-development-libraries)
