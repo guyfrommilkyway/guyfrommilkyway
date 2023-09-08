@@ -9,8 +9,8 @@ Experienced front-end developer with a track record of over a year, adept at cra
 - Previously worked at Seaplane Group and Highly Succeed
 
 ## Stats
-<img align="top" src="https://streak-stats.demolab.com/?user=guyfrommilkyway&background=1F1F1F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=E4E4E4&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=515151&hide_border=true"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=guyfrommilkyway&layout=compact&title_color=FFFFFF&text_color=B8B8B8&bg_color=1F1F1F&langs_count=10&hide_border=true&custom_title=Wakatime"/>
+<img src="https://streak-stats.demolab.com/?user=guyfrommilkyway&background=1F1F1F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=E4E4E4&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=515151&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=guyfrommilkyway&layout=compact&title_color=FFFFFF&text_color=B8B8B8&bg_color=1F1F1F&langs_count=10&hide_border=true&custom_title=Wakatime"/>
 
 ## Courses & Certifications
 - [Front End Development Libraries](https://www.freecodecamp.org/certification/almerflorestampus/front-end-development-libraries)
