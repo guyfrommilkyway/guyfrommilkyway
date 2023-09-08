@@ -10,6 +10,7 @@ Experienced front-end developer with a track record of over a year, adept at cra
 
 ## Stats
 <img src="https://streak-stats.demolab.com/?user=guyfrommilkyway&background=1F1F1F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=E4E4E4&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=515151&hide_border=true"/>
+<img align="top" src="https://guyfrommilkyway-github-readme-stats.vercel.app/api?username=guyfrommilkyway&title_color=FFFFFF&text_color=B8B8B8&bg_color=1F1F1F&icon_color=FFFFFF&hide_border=true&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guyfrommilkyway&layout=compact&title_color=FFFFFF&text_color=B8B8B8&bg_color=1F1F1F&langs_count=10&hide_border=true&custom_title=Wakatime"/>
 
 ## Courses & Certifications
