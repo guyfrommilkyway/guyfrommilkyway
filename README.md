@@ -2,7 +2,7 @@
 
 ## Hi, I'm Almer 👋
 
-Experienced front-end developer with a track record of over a year, adept at crafting engaging user-facing features utilizing React, Next.js, Redux, Chakra UI and Tailwind. Proficient in applying cutting-edge industry practices, optimization strategies, design patterns and clean code principles. Enthusiastic about harnessing my proficiency to create interactive web solutions that resonate with discerning businesses.
+A highly proactive agile web developer with a strong track record of over a year focusing on front-end development. Proficient in crafting user-facing features by leveraging a diverse array of frameworks and libraries. Passionate about channeling my skills towards creating engaging and interactive web solutions. Committed to continuous development, I actively pursue various avenues of learning to continually expand my expertise and adapt to the ever-evolving landscape of the IT industry.
 
 - Mastering React + Redux + TypeScript
 - Learning Angular and Unit Testing on Udemy
