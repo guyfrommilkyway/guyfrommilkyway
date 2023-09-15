@@ -4,9 +4,14 @@
 
 A highly proactive agile web developer with a strong track record of over a year focusing on front-end development. Proficient in crafting user-facing features by leveraging a diverse array of frameworks and libraries. Passionate about channeling my skills towards creating engaging and interactive web solutions. Committed to continuous development, I actively pursue various avenues of learning to continually expand my expertise and adapt to the ever-evolving landscape of the IT industry.
 
-- Mastering React + Redux + TypeScript
-- Learning Angular and Unit Testing on Udemy
+- Currently pursuing Google UX Design Certification on Coursera (DTI x Google Scholar)
+- Also enrolled in Harvard University: Computer Science for Web Programming on edX.org
+  - CS50X - Introduction to Computer Science (audit/free)
+  - CS50W - Web Programming with Python and JavaScript (audit/free)
+- Mastering React + Redux + TypeScript, Design Patterns and Clean Coding
+- Learning Unit Testing on Udemy
 - Previously worked at Seaplane Group and Highly Succeed
+- Planning to expand my skill set in Angular, Node.js/Express.js/MongoDB and AWS Cloud Computing
 
 ## Stats
 <img src="https://camo.githubusercontent.com/e203f4e79f7c94433ff6928dd66be29f55cc2586a1cc73025a7de2d4c09a800e/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d67757966726f6d6d696c6b79776179266261636b67726f756e643d314631463146266375727253747265616b4c6162656c3d46464646464626736964654c6162656c733d4646464646462664617465733d453445344534266375727253747265616b4e756d3d46464646464626736964654e756d733d46464646464626666972653d4646464646462672696e673d35313531353126686964655f626f726465723d74727565" loading="eager" referrerpolicy="no-referrer" alt="github-readme-streaks-stats"/>
@@ -30,7 +35,7 @@ A highly proactive agile web developer with a strong track record of over a year
 
 ## Get In Touch
 
-You can reach me via [almerflorestampus@gmail.com](mailto:almerflorestampus@gmail).
+You can reach me via [almerflorestampus@gmail.com](mailto:almerflorestampus@gmail). You can also check out my [LinkedIn](https://ph.linkedin.com/in/almerflorestampus) profile for more detailed information.
 
 - Got a question, or just want to say hello? Hit me up!
 - Have a proposal or project in mind? Let's collaborate!
