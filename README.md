@@ -2,7 +2,7 @@
 
 ## Hi, I'm Almer 👋
 
-A highly proactive agile web developer with a strong track record of over a year focusing on front-end development. Proficient in crafting user-facing features by leveraging a diverse array of frameworks and libraries. Passionate about channeling my skills towards creating engaging and interactive web solutions. Committed to continuous development, I actively pursue various avenues of learning to continually expand my expertise and adapt to the ever-evolving landscape of the IT industry.
+A highly proactive agile web developer with a strong track record of over a year focusing on front-end development. Proficient in crafting user-facing features by leveraging a diverse array of frameworks and libraries. Passionate about channeling my skills towards creating engaging and interactive web solutions. Committed to continuous learning, I actively pursue various avenues of learning to continually expand my expertise and adapt to the ever-evolving landscape of the IT industry.
 
 - Currently pursuing Google UX Design, IT Automation with Python and Project Management on Coursera (DTI x Google Scholar)
 - Mastering React + Redux + TypeScript, Design Patterns and Clean Code
