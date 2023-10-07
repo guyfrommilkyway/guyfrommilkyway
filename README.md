@@ -4,15 +4,53 @@
 
 With a strong track record of over a year focusing on front-end development. Proficient in crafting user-facing features by leveraging a diverse array of frameworks and libraries. Passionate about channeling my skills towards creating engaging and interactive web solutions. Committed to continuous learning, I actively pursue various avenues of learning to continually expand my expertise and adapt to the ever-evolving landscape of the IT industry.
 
-- Currently pursuing Google UX Design and Meta Back-End Developer Professional Certificates on Coursera
 - Mastering React + Redux + TypeScript + Tailwind, Design Patterns and Clean Code
 - Previously worked as Front-End Web Developer at Seaplane Group and Highly Succeed Inc.
-- Also interested in Angular, Django, Flask, Express, MongoDB, MySQL and AWS
+- Also interested in Angular, Django, Flask, Express, MongoDB, MySQL and AWS Cloud Services
 
 ## Stats
 <img src="https://streak-stats.demolab.com/?user=guyfrommilkyway&background=1F1F1F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=E4E4E4&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=515151&hide_border=true" />
 <img src="https://almertampus-stats.vercel.app/api?username=guyfrommilkyway&title_color=FFFFFF&text_color=B8B8B8&bg_color=1F1F1F&icon_color=FFFFFF&hide_border=true&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guyfrommilkyway&layout=compact&title_color=FFFFFF&text_color=B8B8B8&bg_color=1F1F1F&langs_count=10&hide_border=true&custom_title=Wakatime" />
+
+## Continuous Learning
+As a lifelong learner, I'm passionate and dedicated to continuous learning. To stay at the forefront of the ever-evolving tech landscape, I've dedicated significant time and effort to investing in my personal growth and development through a diverse range of learning avenues, including comprehensive online courses and rigorous self-study sessions. My main focus these days has been on broadening my existing skill set and expertise into adjacent domains, encompassing user experience design, backend development, and the intricacies of DevOps.
+
+Currently taking the following courses on Coursera:
+  
+- Google UX Design Professional Certificate
+  - [x] Foundations of User Experience (UX) Design
+  - [ ] Start the UX Design Process: Empathize, Define, Ideate
+  - [ ] Build Wireframes and Low-Fidelity Prototypes
+  - [ ] Conduct UX Research and Test Early Concepts
+  - [ ] Create High-Fidelity Designs and Prototypes in Figma
+  - [ ] Build Dynamic User Interfaces (UI) for Websites
+  - [ ] Design a User Experience for Social Good & Prepare for Jobs
+- Meta Back-End Developer Professional Certificate
+  - [x] Introduction to Back-End Development
+  - [x] Programming in Python
+  - [x] Version Control
+  - [x] Introduction to Database for Back-End Development
+  - [ ] Django Framework
+  - [ ] APIs
+  - [ ] The Full Stack
+  - [ ] Back-End Developer Capstone
+  - [x] Coding Interview Preparation
+- IBM DevOps and Software Engineering
+  - [ ] Introduction to DevOps
+  - [ ] Introduction to Cloud Computing
+  - [ ] Introduction to Agile Development and Scrum
+  - [ ] Hands-on Introduction to Linux Commands and Shell Scripting
+  - [ ] Getting Started with Git and GitHub
+  - [ ] Python for Data Science, AI & Development
+  - [ ] Developing AI Applications with Python and Flask
+  - [ ] Introduction to Containers with Dockers, Kubernetes & OpenShift
+  - [ ] Application Development using Microservices and Serverless
+  - [ ] Introduction to Test and Behavior Driven Environment
+  - [ ] Continuous Integration and Continuous Delivery (CI/CD)
+  - [ ] Application Security for Developers and DevOps Professionals
+  - [ ] Monitoring and Observability for Development and DevOps
+  - [ ] DevOps Capstone Project 
 
 ## Certifications
 You can check out my digital credentials at [Credly](https://www.credly.com/users/almer-tampus/badges) or [LinkedIn](https://www.linkedin.com/in/almerflorestampus/details/certifications/).
