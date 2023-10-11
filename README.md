@@ -9,6 +9,8 @@ As a lifelong learner, I'm passionate and dedicated to continuous learning. To s
 
 When not on my working station, you'll often find me engaged in spending quality time with my loyal German Shepherd, Comet, forging a bond while honing our skills together. When not in training mode, my other canine companions, Brew and Latte, eargerly join the mix, creating a playful and vibrant atmosphere. In addition, I occasionally indulge in watching TV series such as SEAL Team, The Big Bang Theory and Suits. I'm also an enthusiastic gamer with a particular fondness for real-time strategy, single-player campaigns with compelling narratives, and tactical shooter games.
 
+Currently, I'm seeking new opportunities in the field of front-end development and enthusiastically open to embracing and mastering emerging technologies. I'm excited to contribute my expertise, passion and dedication to create exceptional user experiences for startups and small businesses.
+
 ## What's New
 - Mastering React + Redux + TypeScript + Tailwind
 - Studying Python, SQL, Django, API and database design
