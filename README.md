@@ -1,12 +1,31 @@
 ![](https://komarev.com/ghpvc/?username=guyfrommilkyway)
 
 ## Hi, I'm Almer 👋
+A coder and designer with over a year of professional experience in front-end web development. Experience in building web applications, from developing interfaces to integrating data and services. My expertise is currently somewhere in the realm of JavaScript, TypeScript, React, Next.js, Redux, Zustand, Tailwind and Chakra UI.
 
-With a strong track record of over a year focusing on front-end development. Proficient in crafting user-facing features by leveraging a diverse array of frameworks and libraries. Passionate about channeling my skills towards creating engaging and interactive web solutions. Committed to continuous learning, I actively pursue various avenues of learning to continually expand my expertise and adapt to the ever-evolving landscape of the IT industry.
+Most recently I've worked at Seaplane Group, a Hong Kong-based startup company, where I was assigned to maintain and developer user-facing features for two company projects. Prior to joining Seaplane Group, I've worked at Highly Succeed Inc., a Philippine-based company offering a diverse range of IT services. During my tenure, I've had the opportunity to co-develop web applications for private and government clients.
 
-- Mastering React + Redux + TypeScript + Tailwind, Design Patterns and Clean Code
+As a lifelong learner, I'm passionate and dedicated to continuous learning. To stay at the forefront of the ever-evolving tech landscape, I spend significant time and effort to investing in my personal growth and development. In these past few days, I've been broadening my existing skill set and expertise into adjacent domains, encompassing user experience, backend development, and the intricacies of devops.
+
+When not on my working station, you'll often find me engaged in spending quality time with my loyal German Shepherd, Comet, forging a bond while honing our skills together. When not in training mode, my other canine companions, Brew and Latte, eargerly join the mix, creating a playful and vibrant atmosphere. In addition, I occasionally indulge in watching TV series such as SEAL Team, The Big Bang Theory and Suits. I'm also an enthusiastic gamer with a particular fondness for real-time strategy, single-player campaigns with compelling narratives, and tactical shooter games.
+
+## What's New
+- Mastering React + Redux + TypeScript + Tailwind
+- Studying Python, SQL, Django, API and database design
+- Researching about design patterns, best practices and clean code
 - Previously worked as Front-End Web Developer at Seaplane Group and Highly Succeed Inc.
-- Also interested in Angular, Django, Flask, Express, MongoDB, MySQL and AWS Cloud Services
+- Also interested in Angular and AWS Cloud Services
+
+## Recent News
+- portfolio-v3: Integrated Firebase Realtime Database, Zustand and React Query
+- portfolio-v3: Enabled Vercel's web analytics and speed insights
+- portfolio-v3: Deployed initial version with Vercel
+- react-notes: Deployed initial version with Netlify
+- Finished watching Ted Lasso Season 3
+- Completed Meta Front-End Developer Professional Certificate
+- Completed Software Development Lifecycle Specialization
+- Finished playing with Subnautica and Subnautica: Below Zero
+- Finished playing with Shadow Tactics: Blades of the Shogun - Aiko's Choice
 
 ## Stats
 <img src="https://streak-stats.demolab.com/?user=guyfrommilkyway&background=1F1F1F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=E4E4E4&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=515151&hide_border=true" />
@@ -14,8 +33,6 @@ With a strong track record of over a year focusing on front-end development. Pro
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guyfrommilkyway&layout=compact&title_color=FFFFFF&text_color=B8B8B8&bg_color=1F1F1F&langs_count=10&hide_border=true&custom_title=Wakatime" />
 
 ## Continuous Learning
-As a lifelong learner, I'm passionate and dedicated to continuous learning. To stay at the forefront of the ever-evolving tech landscape, I've dedicated significant time and effort to investing in my personal growth and development through a diverse range of learning avenues, including comprehensive online courses and rigorous self-study sessions. My main focus these days has been on broadening my existing skill set and expertise into adjacent domains, encompassing user experience design, backend development, and the intricacies of DevOps.
-
 Currently taking the following courses on Coursera:
   
 - Google UX Design Professional Certificate
@@ -70,7 +87,7 @@ You can check out my digital credentials at [Credly](https://www.credly.com/user
 
 ## Get In Touch
 
-You can reach me via [almerflorestampus@gmail.com](mailto:almerflorestampus@gmail). You can also check out my [LinkedIn](https://ph.linkedin.com/in/almerflorestampus) profile for more detailed information about my professional background.
+You can reach me via [almerflorestampus@gmail.com](mailto:almerflorestampus@gmail). You can also check out my [portfolio website](https://almertampus.xyz) or [LinkedIn](https://ph.linkedin.com/in/almerflorestampus) profile for more detailed information about my professional background.
 
 - Got a question, or just want to say hello? Hit me up!
 - Have a proposal or project in mind? Let's collaborate!
