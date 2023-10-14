@@ -14,8 +14,6 @@ Currently, I'm seeking new opportunities in the field of front-end development a
 - Mastering React + Redux + TypeScript + Tailwind
 - Studying Python, SQL, Django, API and database design
 - Researching about best practices, design patterns and clean code
-- Previously worked as Front-End Web Developer at Seaplane Group and Highly Succeed Inc.
-- Also interested in Angular and AWS Cloud Services
 
 ## Recent
 - portfolio-v3: Integrated Firebase Realtime Database, Zustand and React Query
