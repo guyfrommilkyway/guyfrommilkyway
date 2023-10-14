@@ -31,43 +31,6 @@ Currently, I'm seeking new opportunities in the field of front-end development a
 <img src="https://almertampus-stats.vercel.app/api?username=guyfrommilkyway&title_color=FFFFFF&text_color=B8B8B8&bg_color=1F1F1F&icon_color=FFFFFF&hide_border=true&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guyfrommilkyway&layout=compact&title_color=FFFFFF&text_color=B8B8B8&bg_color=1F1F1F&langs_count=10&hide_border=true&custom_title=Wakatime" />
 
-## Continuous Learning
-Currently taking the following courses on Coursera:
-  
-- Google UX Design Professional Certificate
-  - [x] Foundations of User Experience (UX) Design
-  - [ ] Start the UX Design Process: Empathize, Define, Ideate
-  - [ ] Build Wireframes and Low-Fidelity Prototypes
-  - [ ] Conduct UX Research and Test Early Concepts
-  - [ ] Create High-Fidelity Designs and Prototypes in Figma
-  - [ ] Build Dynamic User Interfaces (UI) for Websites
-  - [ ] Design a User Experience for Social Good & Prepare for Jobs
-- Meta Back-End Developer Professional Certificate
-  - [x] Introduction to Back-End Development
-  - [x] Programming in Python
-  - [x] Version Control
-  - [x] Introduction to Database for Back-End Development
-  - [ ] Django Framework
-  - [ ] APIs
-  - [ ] The Full Stack
-  - [ ] Back-End Developer Capstone
-  - [x] Coding Interview Preparation
-- IBM DevOps and Software Engineering
-  - [ ] Introduction to DevOps
-  - [ ] Introduction to Cloud Computing
-  - [ ] Introduction to Agile Development and Scrum
-  - [ ] Hands-on Introduction to Linux Commands and Shell Scripting
-  - [ ] Getting Started with Git and GitHub
-  - [ ] Python for Data Science, AI & Development
-  - [ ] Developing AI Applications with Python and Flask
-  - [ ] Introduction to Containers with Dockers, Kubernetes & OpenShift
-  - [ ] Application Development using Microservices and Serverless
-  - [ ] Introduction to Test and Behavior Driven Environment
-  - [ ] Continuous Integration and Continuous Delivery (CI/CD)
-  - [ ] Application Security for Developers and DevOps Professionals
-  - [ ] Monitoring and Observability for Development and DevOps
-  - [ ] DevOps Capstone Project 
-
 ## Certifications
 You can check out my digital credentials at [Credly](https://www.credly.com/users/almer-tampus/badges) or [LinkedIn](https://www.linkedin.com/in/almerflorestampus/details/certifications/).
 - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/PJVHC29TZQ4R)
