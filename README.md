@@ -13,11 +13,11 @@ Currently, I'm seeking new opportunities in the field of front-end development a
 ## What's New
 - Mastering React + Redux + TypeScript + Tailwind
 - Studying Python, SQL, Django, API and database design
-- Researching about design patterns, best practices and clean code
+- Researching about best practices, design patterns and clean code
 - Previously worked as Front-End Web Developer at Seaplane Group and Highly Succeed Inc.
 - Also interested in Angular and AWS Cloud Services
 
-## Recent News
+## Recent
 - portfolio-v3: Integrated Firebase Realtime Database, Zustand and React Query
 - portfolio-v3: Enabled Vercel's web analytics and speed insights
 - portfolio-v3: Deployed initial version with Vercel
@@ -74,7 +74,7 @@ Currently taking the following courses on Coursera:
 You can check out my digital credentials at [Credly](https://www.credly.com/users/almer-tampus/badges) or [LinkedIn](https://www.linkedin.com/in/almerflorestampus/details/certifications/).
 - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/PJVHC29TZQ4R)
 - [Software Development Lifecyle Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YXP7RPKU4TQ7)
-- [Scrum Foundation Professional Certificate SFPC™ v2020](https://www.credly.com/badges/60072976-0847-4420-a154-2445fd08f1bc)
+- [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/60072976-0847-4420-a154-2445fd08f1bc)
 - [Front End Development Libraries](https://www.freecodecamp.org/certification/almerflorestampus/front-end-development-libraries)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/almerflorestampus/javascript-algorithms-and-data-structures)
 - [Responsive Web Design](https://www.freecodecamp.org/certification/almerflorestampus/responsive-web-design)
