@@ -2,7 +2,7 @@
 
 ## Hi, I'm Almer 👋
 
-An agile software developer with over a year of professional experience specializing in front-end web development. I'm experience in building seamless user experiences, utilizing JavaScript, TypeScript, React, Next.js, Redux, Zustand, Tailwind and Chakra UI.
+An agile software developer with over a year of professional experience specializing in front-end web development. I'm experience in building web applications, utilizing JavaScript, TypeScript, React, Next.js, Redux, Zustand, Tailwind and Chakra UI.
 
 Most recently I've worked at Seaplane Group, a Hong Kong-based startup company, where I've took ownership of the maintenance and development of two company projects. Prior to this, I've worked at Highly Succeed Inc., a Philippine-based company offering a range of IT services. During my tenure, I've had the opportunity to co-develop a total of eight web applications for private and government clients.
 
