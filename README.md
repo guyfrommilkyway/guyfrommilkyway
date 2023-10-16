@@ -2,13 +2,13 @@
 
 ## Hi, I'm Almer 👋
 
-An agile software developer with over a year of professional experience specializing in front-end web development. I'm experience in building web applications, utilizing JavaScript, TypeScript, React, Next.js, Redux, Zustand, Tailwind and Chakra UI.
+I'm an agile software developer with over a year of professional experience, specializing in front-end web development. My expertise lies in building web applications using a versatile tech stack. I'm proficient in JavaScript and TypeScript, and excels in harnessing the power of modern frameworks and libraries, such as React, Next.js, Redux, Zustand, and CSS frameworks like Tailwind and Chakra UI.
 
-Most recently I've worked at Seaplane Group, a Hong Kong-based startup company, where I've took ownership of the maintenance and development of two company projects. Prior to this, I've worked at Highly Succeed Inc., a Philippine-based company offering a range of IT services. During my tenure, I've had the opportunity to co-develop a total of eight web applications for private and government clients.
+In my most recent role, I had the privilege of working at Seaplane Group, a Hong Kong-based startup. Here, I assumed full ownership of the maintenance and development of two crucial company projects, further honing my skills and expertise in front-end web development. This experience allowed me to drive projects from conception to successful completion, and I consistently strives to exceed project goals and expectations.
 
-As a lifelong learner, I'm dedicated to continuous learning. To keep up with the fast-changing tech industry, I spend significant time and effort to investing in my personal growth and development. In these past few days, I've been building up foundational knowledge into adjacent domains of user experience, back-end development, and the intricacies of DevOps.
+Before my tenure at Seaplane Group, I had the pleasure of being part of the Highly Succeed Inc. team, a Philippine-based company specializing in a wide range of IT services. During my time with Highly Succeed, I actively participated in the co-development of a total of eight web applications, catering to both private and government clients. This exposure to diverse projects allowed me to gain invaluable insights into various industries and client needs while developing a strong collaborative spirit.
 
-Currently, I'm seeking new opportunities in the field of front-end development and open to embracing and mastering emerging technologies. I'm excited to contribute my expertise, passion and dedication to create exceptional user experiences for startups and small businesses.
+These experiences have not only enriched my technical skills but have also honed my ability to adapt to different work environments and the distinct needs of clients across different regions. My dedication to delivering innovative and top-tier web solutions remains a constant driving force in my career.
 
 ## What's New
 - Mastering React + Redux + TypeScript + Tailwind
