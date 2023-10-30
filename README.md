@@ -37,6 +37,9 @@ I'm an agile software developer with over a year of professional experience, spe
 - Researching about best practices, design patterns and clean code
 
 ### Recent News
+- portfolio-v3: Redesign UI
+- Completed Software Engineering Specialization
+- Completed Secure Software Design Specialization
 - portfolio-v3: Integrated Firebase Realtime Database, Zustand and React Query
 - portfolio-v3: Enabled Vercel's web analytics and speed insights
 - portfolio-v3: Deployed initial version with Vercel
