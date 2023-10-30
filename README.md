@@ -2,29 +2,29 @@
 
 ##### Tech Stack
 <div>
-  <img src="./assets/typescript.svg" height="24px" />
-  <img src="./assets/javascript.svg" height="24px" />
-  <img src="./assets/react.svg" height="24px" />
-  <img src="./assets/nextjs.svg" height="24px" />
-  <img src="./assets/redux.svg" height="24px" />
-  <img src="./assets/tailwind.svg" height="24px" />
-  <img src="./assets/chakraui.svg" height="24px" />
-  <img src="./assets/nodejs.svg" height="24px" />
-  <img src="./assets/html5.svg" height="24px" />
-  <img src="./assets/css3.svg" height="24px" />
-  <img src="./assets/sass.svg" height="24px" />
-  <img src="./assets/firebase.svg" height="24px" />
-  <img src="./assets/figma.svg" height="24px" />
-  <img src="./assets/python.svg" height="24px" />
-  <img src="./assets/django.svg" height="24px" />
-  <img src="./assets/netlify.svg" height="24px" />
-  <img src="./assets/vercel.svg" height="24px" />
-  <img src="./assets/postman.svg" height="24px" />
-  <img src="./assets/prettier.svg" height="24px" />
-  <img src="./assets/vscode.svg" height="24px" />
-  <img src="./assets/eslint.svg" height="24px" />
-  <img src="./assets/github.svg" height="24px" />
-  <img src="./assets/git.svg" height="24px" />
+  <img src="./assets/typescript.svg" height="22px" />
+  <img src="./assets/javascript.svg" height="22px" />
+  <img src="./assets/react.svg" height="22px" />
+  <img src="./assets/nextjs.svg" height="22px" />
+  <img src="./assets/redux.svg" height="22px" />
+  <img src="./assets/tailwind.svg" height="22px" />
+  <img src="./assets/chakraui.svg" height="22px" />
+  <img src="./assets/nodejs.svg" height="22px" />
+  <img src="./assets/html5.svg" height="22px" />
+  <img src="./assets/css3.svg" height="22px" />
+  <img src="./assets/sass.svg" height="22px" />
+  <img src="./assets/firebase.svg" height="22px" />
+  <img src="./assets/figma.svg" height="22px" />
+  <img src="./assets/python.svg" height="22px" />
+  <img src="./assets/django.svg" height="22px" />
+  <img src="./assets/netlify.svg" height="22px" />
+  <img src="./assets/vercel.svg" height="22px" />
+  <img src="./assets/postman.svg" height="22px" />
+  <img src="./assets/prettier.svg" height="22px" />
+  <img src="./assets/vscode.svg" height="22px" />
+  <img src="./assets/eslint.svg" height="22px" />
+  <img src="./assets/github.svg" height="22px" />
+  <img src="./assets/git.svg" height="22px" />
 </div>
 
 ### Hi, I'm Almer 👋
