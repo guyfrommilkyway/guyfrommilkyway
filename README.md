@@ -70,5 +70,5 @@ You can check out my digital credentials at [Credly](https://www.credly.com/user
 ### Get In Touch
 Got a question, or just want to say hello? Hit me up! Have a proposal or project in mind? Let's collaborate!
 
-You can reach me via [almerflorestampus@gmail.com](mailto:almerflorestampus@gmail). You can also check out my [portfolio website](https://almertampus.xyz) or [LinkedIn](https://ph.linkedin.com/in/almerflorestampus) profile for more detailed information about my professional background.
+You can reach me via [almerflorestampus@gmail.com](mailto:almerflorestampus@gmail). You can also check out my [portfolio website](https://almertampus.xyz).
 
