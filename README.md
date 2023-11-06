@@ -34,7 +34,6 @@ I'm an agile software developer with over a year of professional experience, spe
 
 ## What's Happening?
 - Mastering React + Redux + TypeScript + Tailwind
-- Improving DSA and systems design
 - Studying backend development with Python, SQL, Django, Flask and MySQL
 - Researching best practices, design patterns and clean code
 
