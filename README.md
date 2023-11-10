@@ -30,7 +30,7 @@
 
 ## Hi, I'm Almer 👋
 
-I'm an agile software developer with over a year of professional experience, specializing in front-end web development. My expertise lies in building web applications using a versatile tech stack. I'm proficient in JavaScript and TypeScript, and excels in harnessing the power of modern frameworks and libraries, such as React, Next.js, Redux, Zustand, and CSS frameworks like Tailwind and Chakra UI.
+An agile software developer with over a year of professional experience, specializing in front-end web development. Expertise lies in building web applications using a versatile tech stack. Proficient in JavaScript and TypeScript, and excels in harnessing the power of modern frameworks and libraries, such as React, Next.js, Redux, Zustand, and CSS frameworks like Tailwind, Chakra UI and Bootstrap.
 
 ## What's Happening?
 - Mastering React + Redux + TypeScript + Tailwind
