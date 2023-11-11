@@ -68,7 +68,7 @@ You can check out my digital credentials at [Credly](https://www.credly.com/user
 - [Understanding TypeScript](https://www.udemy.com/certificate/UC-6ce313e3-1cc6-4b42-be94-775021c97137/)
 - [Clean Code](https://www.udemy.com/certificate/UC-cde42411-355e-4634-8762-90e171fb3d39)
 - [Next.js & React - The Complete Guide](https://www.udemy.com/certificate/UC-d9845202-08ed-45dd-909c-1b6ed869faca)
-- [React - The Complete Guide](https://www.udemy.com/certificate/UC-d9845202-08ed-45dd-909c-1b6ed869faca)
+- [React - The Complete Guide](https://www.udemy.com/certificate/UC-c15b03b8-70c0-4db4-9bcb-afc89720d4a1)
 - [JavaScript: Best Practices for Code Formatting](https://www.linkedin.com/learning/certificates/b0d495bc0de3e796bca65b6a5b3e0ba30c7096863b17c84ed6246a617b0683b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3ByGmn022zSr699PfTNANFrA%3D%3D)
 - [JavaScript: Best Practices for Data](https://www.linkedin.com/learning/certificates/b0d495bc0de3e796bca65b6a5b3e0ba30c7096863b17c84ed6246a617b0683b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3ByGmn022zSr699PfTNANFrA%3D%3D)
 - [JavaScript: Security Essentials](https://www.linkedin.com/learning/certificates/f1ff006de6a2becd87cae4874e900d983c09f9d881b0d8427e04261f7dadfcc4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3ByGmn022zSr699PfTNANFrA%3D%3D)
