@@ -33,8 +33,10 @@
 An agile software developer with over a year of professional experience, specializing in front-end web development. Expertise lies in building web applications using a versatile tech stack. Proficient in JavaScript and TypeScript, and excels in harnessing the power of modern frameworks and libraries, such as React, Next.js, Redux, Zustand, and CSS frameworks like Tailwind, Chakra UI and Bootstrap.
 
 ## What's Happening?
+- Currently taking Harvard University's CS50x: Introduction to Computer Science
 - Mastering React + Redux + TypeScript + Tailwind
 - Studying backend development with Python, SQL, Django, Flask and MySQL
+- Grinding DSA on hackerrank
 - Researching best practices, design patterns and clean code
 
 ## Recent News
