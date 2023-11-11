@@ -36,7 +36,7 @@ An agile software developer with over a year of professional experience, special
 - Currently taking Harvard University's CS50x: Introduction to Computer Science
 - Mastering React + Redux + TypeScript + Tailwind
 - Studying backend development with Python, SQL, Django, Flask and MySQL
-- Grinding DSA on hackerrank
+- Grinding DSA on HackerRank
 - Researching best practices, design patterns and clean code
 
 ## Recent News
