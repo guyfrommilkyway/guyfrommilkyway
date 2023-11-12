@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=guyfrommilkyway)
 
-##### Tech Stack
+#### Tech Stack
 <div>
   <img src="./assets/typescript.svg" height="24px" />
   <img src="./assets/javascript.svg" height="24px" />
