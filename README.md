@@ -36,8 +36,9 @@ An agile software developer with over a year of professional experience, special
 
 ## What's Happening?
 - Mastering React + TypeScript
-- Studying User Experience Design and Unit Testing
-- Grinding DSA on HackerRank
+- Exploring User Experience and Software Testing
+- Studying backend development (Node.js, Express.js, MongoDB, REST APIs, Microservices)
+- Grinding DSA challenges on HackerRank
 - Researching best practices, design patterns and clean code
 
 ## Recent News
