@@ -42,7 +42,7 @@ An agile software developer with over a year of professional experience, special
 - Researching best practices, design patterns and clean code
 
 ## Recent News
-- Back End Development and API Certification
+- Back End Development and APIs Certification
 - Completed JavaScript Security Specialization
 - Passed HackerRank Frontend Developer (React) Certification
 - portfolio-v3: Redesign UI
