@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=guyfrommilkyway)
-
 <img src="./assets/banner.png" />
 
 #### Tech Stack
