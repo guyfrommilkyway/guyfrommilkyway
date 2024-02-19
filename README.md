@@ -55,7 +55,7 @@ An agile software developer with over a year of professional experience, special
 
 ## Stats
 <img src="https://streak-stats.demolab.com/?user=guyfrommilkyway&background=0F0F0F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=E4E4E4&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=515151&hide_border=true" />
-<img src="https://almertampus-stats.vercel.app/api?username=guyfrommilkyway&title_color=FFFFFF&text_color=B8B8B8&bg_color=0F0F0F&icon_color=FFFFFF&hide_border=true&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub" />
+<img src="https://stats.almertampus.xyz/api?username=guyfrommilkyway&title_color=FFFFFF&text_color=B8B8B8&bg_color=0F0F0F&icon_color=FFFFFF&hide_border=true&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guyfrommilkyway&layout=compact&title_color=FFFFFF&text_color=B8B8B8&bg_color=0F0F0F&langs_count=10&hide_border=true&custom_title=Wakatime" />
 
 ## Get In Touch
