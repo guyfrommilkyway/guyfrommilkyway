@@ -34,8 +34,7 @@ A frontend developer with 1+ years of professional experience, specializing in f
 
 ## What's Happening?
 - Mastering React + TypeScript
-- Exploring User Experience and Software Testing
-- Studying backend development (Node.js, Express.js, MongoDB, REST APIs, Microservices)
+- Exploring Full Stack Development (MERN) and Software Testing
 - Grinding DSA challenges on HackerRank
 - Researching best practices, design patterns and clean code
 
