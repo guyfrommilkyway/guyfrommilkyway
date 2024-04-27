@@ -1,5 +1,3 @@
-<img src="./assets/banner.png" />
-
 #### Tech Stack
 <div>
   <img src="./assets/typescript.svg" height="24px" />
