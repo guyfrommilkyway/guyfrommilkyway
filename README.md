@@ -31,9 +31,10 @@
 A frontend developer with 1+ years of professional experience, a lifelong learner and a working dog enthusiast. Expertise lies in building web applications using a versatile tech stack. Proficient in JavaScript and TypeScript, and excels in harnessing the power of modern frameworks and libraries, such as React, Next.js, Redux, Zustand, and CSS frameworks like Tailwind, Chakra UI and Bootstrap.
 
 ## What's Happening?
-- Ex-Frontend Developer @ Seaplane Group and Highly Succeed Inc.
+- Software Engineer @ Wishland Software Technologies Inc.
+- Ex-Frontend Developer @ New Stars Solutions Inc., Seaplane Group and Highly Succeed Inc.
 - Mastering React + TypeScript
-- Exploring software automation testing and test-driven development
+- Exploring software automation testing and test-driven development (TDD)
 - Grinding DSA challenges on HackerRank
 - Researching best practices, design patterns and clean code
 
