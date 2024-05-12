@@ -28,7 +28,7 @@
 
 ## Hi, I'm Almer 👋
 
-A frontend developer with 1+ years of professional experience, a lifelong learner and a working dog enthusiast. Expertise lies in building web applications using a versatile tech stack. Proficient in JavaScript and TypeScript, and excels in harnessing the power of modern frameworks and libraries, such as React, Next.js, Redux, Zustand, and CSS frameworks like Tailwind, Chakra UI and Bootstrap.
+A software engineer with 1+ years of professional experience, a lifelong learner and a working dog enthusiast. Expertise lies in building web applications using a versatile tech stack. Proficient in JavaScript and TypeScript, and excels in harnessing the power of modern frameworks and libraries, such as React, Next.js, Redux, Zustand, and CSS frameworks like Tailwind, Chakra UI and Bootstrap.
 
 ## What's Happening?
 - Software Engineer @ Wishland Software Technologies Inc.
