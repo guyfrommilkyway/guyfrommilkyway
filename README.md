@@ -1,6 +1,12 @@
 ## 👋 Hi, I'm Almer
 
-A frontend software engineer with 2.5 years of industry experience. Proficient in TypeScript and JavaScript, and excels in harnessing the power of modern frameworks and libraries such as React and Next.js, and CSS frameworks like MUI, Ant Design, Tailwind, Chakra UI and Bootstrap.
+I’m a Frontend Engineer with 2.5 years of experience building web applications that balance performance, usability and design. I started my career in 2022, and since then I’ve collaborated with teams on projects that sharpened my expertise.
+
+What excites me most about software development is the bridge between logic and experience. I appreciate good design, like to build things and have a passion for continuous learning. Clean code matters to me, but so does accessibility, responsiveness and making sure every interaction feels natural.
+
+I approach my work with curiosity and care. For me, frontend development isn’t just about pushing pixels or shipping features—it’s about crafting experiences that make life easier, faster and a little more delightful.
+
+I’ve learned that the best frontend engineers don’t just write code; they listen, adapt and collaborate. They bring structure to complexity and creativity to constraints. That’s the kind of engineer I strive to be every day.
 
 ---
 
