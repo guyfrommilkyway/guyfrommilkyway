@@ -1,25 +1,13 @@
 ## 👋 Hi, I'm Almer
 
-I’m a Frontend Engineer with 2.5 years of experience building web applications that balance performance, usability and design. I started my career in 2022, and since then I’ve collaborated with teams on projects that sharpened my expertise.
-
-What excites me most about software development is the bridge between logic and experience. I appreciate good design, like to build things and have a passion for continuous learning. Clean code matters to me, but so does accessibility, responsiveness and making sure every interaction feels natural.
-
-I approach my work with curiosity and care. For me, frontend development isn’t just about pushing pixels or shipping features—it’s about crafting experiences that make life easier, faster and a little more delightful.
-
-I’ve learned that the best frontend engineers don’t just write code; they listen, adapt and collaborate. They bring structure to complexity and creativity to constraints. That’s the kind of engineer I strive to be every day.
-
----
-
 ### About Me
 - 🧑‍💻 Working as a Frontend Software Engineer @ **Apteum**
 - ⚙️ Learning **backend development** and exploring **DevOps**
-- 📐 Passionate about writing **clean, maintainable code** that’s easy to scale
-
 
 ### Interests
 - 🎮 Strategy, role-playing, and puzzle games — *The Legend of Zelda, Company of Heroes, Call of Duty: Modern Warfare series*
-- 📖 Philosophy, intentional living and continuous self-improvement
-- 🐾 Working dogs (yes, really)
+- 📖 Philosophy, intentional living and continuous learning
+- 🐾 Working dog
 - 🏃‍♂️ Running — *building strength and endurance*
 
 ### Let's Connect
