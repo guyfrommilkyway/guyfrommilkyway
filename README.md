@@ -10,7 +10,7 @@ Outside of work, I dive into strategy and role-playing games like The Legend of 
 
 I’ve learned that the best software engineers don’t just write code; they listen, adapt and collaborate. They bring structure to complexity and creativity to constraints. 
 
-This is the kind of software engineer I strive to be every day.
+This is the kind of engineer I strive to be every day.
 
 ## Stats
 <img src="https://aft-github-readme-stats.vercel.app/api?username=guyfrommilkyway&title_color=CCCCCC&text_color=CCCCCC&bg_color=1F1A38&icon_color=7B506F&hide_border=true&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub&disable_animations=true" />
